@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jayasreeraji
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently doing Intern on Data Science and Business Analytics at GRIP @ TSF
 - 📫 How to reach me jayasreeraji8@gmail.com
 
 <!---
