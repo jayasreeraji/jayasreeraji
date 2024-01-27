@@ -11,6 +11,10 @@ I'm Jayasree, a results-driven Mendix mobile developer with two years of hands-o
 - **Problem-Solving:** Proven ability to troubleshoot issues and implement effective solutions within the Mendix environment.
 - **Team Collaboration:** Collaborative team player with excellent communication skills.
 
+## Other Skills
+- **React Native:** Proficient in building mobile applications.
+- **HTML:** Proficient in building web applications using tags.
+- **CSS:** Proficient in basic css.
 
 ## Certifications
 
